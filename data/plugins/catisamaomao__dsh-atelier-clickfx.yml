@@ -1,0 +1,7 @@
+url: https://github.com/catisamaomao/dsh-atelier-clickfx
+name: catisamaomao/dsh-atelier-clickfx
+category: ui
+description:
+  en: 'Adds five theme-aware click animations to the Web GUI and Desktop, with no consecutive repeats and support for reduced motion.'
+  zh: '为 Web GUI 和桌面客户端添加五种随主题配色的点击动效，避免连续重复并遵循减少动态效果设置。'
+tarball: https://github.com/catisamaomao/dsh-atelier-clickfx/releases/download/v1.2.0/dsh-atelier-clickfx-1.2.0.tgz
